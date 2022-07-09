@@ -6,7 +6,7 @@ toc: false
 images:
 math: true
 tags:
-  - untagged
+  - general
 ---
 Welcome, off to a good start.
 $$results = f(hard work, luck)$$
