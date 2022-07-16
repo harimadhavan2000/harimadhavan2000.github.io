@@ -10,18 +10,22 @@
         <atom:link href="https://harimadhavan2000.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>Laplace Equation</title>
+            <title>A Canter through Statistics</title>
             <link>https://harimadhavan2000.github.io/posts/1/</link>
             <pubDate>Sat, 09 Jul 2022 18:04:02 +0530</pubDate>
             
             <guid>https://harimadhavan2000.github.io/posts/1/</guid>
-            <description>testing KaTex
-a display equation $$\frac{\partial{u}}{\partial{t}} = \nabla ^2 u$$ an inline equation: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$</description>
-            <content type="html"><![CDATA[<p>testing KaTex</p>
-<p>a display equation
-$$\frac{\partial{u}}{\partial{t}} = \nabla ^2 u$$
-an inline equation:
-$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$</p>
+            <description>The model $$y_i = \beta_0 + \beta _1 x_i + \epsilon _i, i = 1 \ldots n$$ where $\epsilon _i$ are the random error components. Following assumptions are made:
+$\mathbb{E} (\epsilon _i) = 0, i = 1 \ldots n$ $\mathit{Var} (\epsilon _i) = \sigma ^2, i = 1 \ldots n$ $\mathit{Cov} (\epsilon _i, \epsilon _j) = 0, i = 1 \ldots n$ </description>
+            <content type="html"><![CDATA[<p>The model
+$$y_i = \beta_0 + \beta _1 x_i + \epsilon _i, i = 1 \ldots n$$
+where $\epsilon _i$ are the random error components. Following assumptions
+are made:</p>
+<ol>
+<li>$\mathbb{E} (\epsilon _i) = 0, i = 1 \ldots n$</li>
+<li>$\mathit{Var} (\epsilon _i) = \sigma ^2, i = 1 \ldots n$</li>
+<li>$\mathit{Cov} (\epsilon _i, \epsilon _j) = 0, i = 1 \ldots n$</li>
+</ol>
 ]]></content>
         </item>
         

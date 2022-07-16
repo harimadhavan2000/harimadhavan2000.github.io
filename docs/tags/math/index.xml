@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hari krishna</title>
-    <link>https://harimadhavan2000.github.io/</link>
-    <description>Recent content on hari krishna</description>
+    <title>math on hari krishna</title>
+    <link>https://harimadhavan2000.github.io/tags/math/</link>
+    <description>Recent content in math on hari krishna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 09 Jul 2022 18:04:02 +0530</lastBuildDate><atom:link href="https://harimadhavan2000.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Jul 2022 18:04:02 +0530</lastBuildDate><atom:link href="https://harimadhavan2000.github.io/tags/math/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Canter through Statistics</title>
       <link>https://harimadhavan2000.github.io/posts/1/</link>
@@ -16,15 +16,6 @@
       <guid>https://harimadhavan2000.github.io/posts/1/</guid>
       <description>The model $$y_i = \beta_0 + \beta _1 x_i + \epsilon _i, i = 1 \ldots n$$ where $\epsilon _i$ are the random error components. Following assumptions are made:
 $\mathbb{E} (\epsilon _i) = 0, i = 1 \ldots n$ $\mathit{Var} (\epsilon _i) = \sigma ^2, i = 1 \ldots n$ $\mathit{Cov} (\epsilon _i, \epsilon _j) = 0, i = 1 \ldots n$ </description>
-    </item>
-    
-    <item>
-      <title>A Start</title>
-      <link>https://harimadhavan2000.github.io/posts/example/</link>
-      <pubDate>Sat, 09 Jul 2022 17:08:02 +0530</pubDate>
-      
-      <guid>https://harimadhavan2000.github.io/posts/example/</guid>
-      <description>Welcome, off to a good start. $$results = f(hard work, luck)$$</description>
     </item>
     
   </channel>
