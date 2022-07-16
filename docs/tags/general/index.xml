@@ -14,7 +14,8 @@
       <pubDate>Sat, 09 Jul 2022 18:04:02 +0530</pubDate>
       
       <guid>https://harimadhavan2000.github.io/posts/1/</guid>
-      <description>$$\frac{\partial{u}}{\partial{t}} = \nabla ^2 u$$</description>
+      <description>testing KaTex
+a display equation $$\frac{\partial{u}}{\partial{t}} = \nabla ^2 u$$ an inline equation: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$</description>
     </item>
     
     <item>
